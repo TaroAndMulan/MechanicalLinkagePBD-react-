@@ -1,9 +1,15 @@
 # Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://mechanicallinkager3f.herokuapp.com/
 
-## Available Scripts
+## local installation
 
-In the project directory, you can run:
+git clone https://github.com/taroandmulan/Mechanical-linkage-simulation-PBD-solver-r3f-.git
+
+cd Mechanical-linkage-simulation-PBD-solver-r3f-
+
+npm install
+
+npm start
 
 
