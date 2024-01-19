@@ -4,6 +4,9 @@ Mechanical linkage can be computational expensive due to having to solve differe
 
 Position based dynamics  https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
 
+## DEMO
+https://mechanical-linkage-simulation-pbd-solver-r3f-myajwgsgp.vercel.app/
+
 Four bar 
 ![alt text][logo]
 
