@@ -1,6 +1,6 @@
 
 # Simulate a mechanical linkage with Position based dynamics
-Mechanical linkage can be computational expensive due to having to solve differential equations for each joints. In this project, I use a technique call "Position based dynamics", populary use in video game physics where performance is more important than accuracy, This method does not rely on differential equation to describe object motion, therefore, speed up calculation by several fold in trade of a small physical accuracy.
+Mechanical linkage can be computationally expensive due to the need to solve differential equations for each joint. In this project, I use a technique called 'Position-based dynamics,' popularly used in video game physics where performance is more important than accuracy. This method does not rely on differential equations to describe object motion; therefore, it speeds up calculations by several folds at the expense of some physical accuracy.
 
 Position based dynamics  https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
 
