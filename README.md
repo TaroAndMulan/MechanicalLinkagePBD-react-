@@ -7,7 +7,7 @@ Position based dynamics  https://matthias-research.github.io/pages/publications/
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Four Bar linkage"
+[logo]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/fourbar.gif "Four Bar linkage"
 
 
 ## local installation
