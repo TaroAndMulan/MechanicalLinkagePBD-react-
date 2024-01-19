@@ -22,7 +22,10 @@ function App() {
 
       <button
         onClick={() => {
+          setHoeken(false)
+          setPeaucellier(false)
           setFourbar(!fourbar);
+
         }}
       >
         Fourbar
@@ -30,6 +33,8 @@ function App() {
 
       <button
         onClick={() => {
+          setPeaucellier(false)
+          setFourbar(false)
           setHoeken(!hoeken);
         }}
       >
@@ -38,6 +43,8 @@ function App() {
 
       <button
         onClick={() => {
+          setHoeken(false)
+          setFourbar(false)
           setPeaucellier(!peaucellier);
         }}
       >
@@ -47,11 +54,11 @@ function App() {
       <Canvas className="Box">
       <color attach="background" args={["#f0fcfc"]} />
         <OrbitControls />
-        <PerspectiveCamera makeDefault position={[0, -15, 9]} />
+        <PerspectiveCamera makeDefault position={[0, 0, 4]} />
         <gridHelper args={[100,100]} rotation-x={Math.PI/2} />
         <ambientLight args={["#ffffff", 0.3]} />
         <pointLight args={["yellow", 1]} position={[0, 2, 8]} />
-        <Environment preset="warehouse" />
+        <Environment files="empty_warehouse_01_4k.hdr" />
         
         {peaucellier&&<Peaucellier position={[0,5,0]}/>}
 
