@@ -38,7 +38,7 @@ function App() {
           setHoeken(!hoeken);
         }}
       >
-        Hoeken
+        Hoecken
       </button>
 
       <button
