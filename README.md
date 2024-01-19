@@ -11,14 +11,14 @@ Four bar
 
 
 Hoecken
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/Houken.gif "Hoecken linkage"
+[logo1]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/houken.gif "Hoecken linkage"
 
 3D enviroment
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/3d.gif "peaucellier linkage"
+[logo2]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/3d.gif "peaucellier linkage"
 
 
 
