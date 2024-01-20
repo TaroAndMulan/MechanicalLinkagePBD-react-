@@ -10,18 +10,18 @@ https://mechanical-linkage-simulation-pbd-solver-r3f-myajwgsgp.vercel.app/
 Four bar 
 ![alt text][logo]
 
-[logo]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/fourbar.gif "Four Bar linkage"
+[logo]: https://github.com/TaroAndMulan/MechanicalLinkagePBD-react-/blob/master/public/fourbar.gif "Four Bar linkage"
 
 
 Hoecken
 ![alt text][logo1]
 
-[logo1]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/houken.gif "Hoecken linkage"
+[logo1]: https://github.com/TaroAndMulan/MechanicalLinkagePBD-react-/blob/master/public/houken.gif "Hoecken linkage"
 
 3D enviroment
 ![alt text][logo2]
 
-[logo2]: https://github.com/TaroAndMulan/Mechanical-linkage-simulation-PBD-solver-r3f-/blob/master/public/3d.gif "peaucellier linkage"
+[logo2]: https://github.com/TaroAndMulan/MechanicalLinkagePBD-react-/blob/master/public/3d.gif "peaucellier linkage"
 
 
 
