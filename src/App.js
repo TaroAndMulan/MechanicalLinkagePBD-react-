@@ -58,7 +58,7 @@ function App() {
         <gridHelper args={[100,100]} rotation-x={Math.PI/2} />
         <ambientLight args={["#ffffff", 0.3]} />
         <pointLight args={["yellow", 1]} position={[0, 2, 8]} />
-        <Environment files="/empty_warehouse_01_4k.hdr" />
+        <Environment files="/empty_warehouse_01_1k.hdr" />
         
         {peaucellier&&<Peaucellier position={[0,5,0]}/>}
 
