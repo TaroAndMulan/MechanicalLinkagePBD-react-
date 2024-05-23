@@ -7,6 +7,8 @@ Position based dynamics  https://matthias-research.github.io/pages/publications/
 ## DEMO
 https://mechanical-linkage-simulation-pbd-solver-r3f-myajwgsgp.vercel.app/
 
+_left click - Rotate , middle mouse - Zoom, right click - pan_
+
 If the link above doesn't work (i.e. can load but white screen), then it mean that my cache file on vercel server has gone inactive. It will work again only when someone notify me and I redeployed it. Check local installation section below to see how to build it locally yourself.
 
 Four bar 
